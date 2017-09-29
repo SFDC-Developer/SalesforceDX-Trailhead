@@ -32,14 +32,14 @@
     [
         "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default",
             "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1506706320014,
+            "changeTime": 1506706320014,
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
             "isMetadataFile": false,
-            "size": 288,
-            "modifiedTime": 1506704314597,
-            "changeTime": 1506704314597,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
+            "state": "u"
         }
     ],
     [
@@ -47,10 +47,10 @@
         {
             "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1506703764289,
-            "changeTime": 1506703764289,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "size": 192,
+            "modifiedTime": 1506706344856,
+            "changeTime": 1506706344856,
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -868,10 +868,10 @@
         {
             "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "size": 156,
-            "modifiedTime": 1506703889702,
-            "changeTime": 1506703889702,
-            "contentHash": "f3f590857881ca3c0ed746a2c23effadffed7691",
+            "size": 198,
+            "modifiedTime": 1506707143367,
+            "changeTime": 1506707143367,
+            "contentHash": "1ed480faa205186969550394887b48a5e17b85bb",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -894,10 +894,10 @@
         {
             "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
             "isDirectory": false,
-            "size": 124,
-            "modifiedTime": 1506704114634,
-            "changeTime": 1506704114634,
-            "contentHash": "f9b4b1c7a6a2b49e7981ece761f648f7eecaa4d1",
+            "size": 116,
+            "modifiedTime": 1506704474890,
+            "changeTime": 1506704474890,
+            "contentHash": "dcc95b8da20fc32600d8ac41a86a13a99ccef542",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -944,92 +944,404 @@
     [
         "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1506704314597,
             "changeTime": 1506704314597,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5665,
             "modifiedTime": 1506704314597,
             "changeTime": 1506704314597,
-            "contentHash": "28aa78f5da9c28a170da9bd200341268ca40700c"
+            "contentHash": "28aa78f5da9c28a170da9bd200341268ca40700c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5661,
             "modifiedTime": 1506704314598,
             "changeTime": 1506704314598,
-            "contentHash": "fad07bdcd9f7fdcc4a0fca93d7b75dca7b32f689"
+            "contentHash": "fad07bdcd9f7fdcc4a0fca93d7b75dca7b32f689",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 18119,
             "modifiedTime": 1506704314598,
             "changeTime": 1506704314598,
-            "contentHash": "9c48d668752c980ff4e175ae31b1228407268664"
+            "contentHash": "9c48d668752c980ff4e175ae31b1228407268664",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6001,
             "modifiedTime": 1506704314598,
             "changeTime": 1506704314598,
-            "contentHash": "a3e0259648daa926b32408e4c45905577e5c1b56"
+            "contentHash": "a3e0259648daa926b32408e4c45905577e5c1b56",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/tabs",
         {
-            "state": "u",
             "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1506704314597,
             "changeTime": 1506704314597,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1506704314598,
             "changeTime": 1506704314598,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountList",
+        {
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountList",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1506704554996,
+            "changeTime": 1506704554996,
+            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountListItem",
+        {
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountListItem",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1506704410980,
+            "changeTime": 1506704410980,
+            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+        {
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+            "isDirectory": false,
+            "size": 339,
+            "modifiedTime": 1506704733610,
+            "changeTime": 1506704733610,
+            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1506704554993,
+            "changeTime": 1506704554993,
+            "contentHash": "22ef10b2acb59793801abaf45e483c705bc14c8c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+        {
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+            "isDirectory": false,
+            "size": 139,
+            "modifiedTime": 1506704852823,
+            "changeTime": 1506704852823,
+            "contentHash": "7a993c75ada375ea9e4e2b3693980efcc9941a98",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+        {
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+            "isDirectory": false,
+            "size": 261,
+            "modifiedTime": 1506704828265,
+            "changeTime": 1506704828265,
+            "contentHash": "13a9cd592fda0aaeb267692aa5bc329f1255c185",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+        {
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1506704554994,
+            "changeTime": 1506704554994,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+        {
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1506704554996,
+            "changeTime": 1506704554996,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+        {
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+            "isDirectory": false,
+            "size": 122,
+            "modifiedTime": 1506704455244,
+            "changeTime": 1506704455244,
+            "contentHash": "3367398c214f03246426e60d56722bda056e0655",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1506704410978,
+            "changeTime": 1506704410978,
+            "contentHash": "696b3214008c0232cc260fded1de3ff036b1a0a0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+        {
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1506704535520,
+            "changeTime": 1506704535520,
+            "contentHash": "8cd634110f2637029a669812a5c447e28c5190b3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+        {
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1506704410978,
+            "changeTime": 1506704410978,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+        {
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1506704410979,
+            "changeTime": 1506704410979,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+        {
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1506704410980,
+            "changeTime": 1506704410980,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 209,
+            "modifiedTime": 1506707863907,
+            "changeTime": 1506707863907,
+            "contentHash": "a26956096455c1ad8f2625a5a817d45b35678b07"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/staticresources/leaflet.resource",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/staticresources/leaflet.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 378748,
+            "modifiedTime": 1506707863908,
+            "changeTime": 1506707863908,
+            "contentHash": "23fa662a086d23091a261dbd2fd7ba2cc34957a3"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1506706320015,
+            "changeTime": 1506706320015,
+            "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountMap",
+        {
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountMap",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1506706344858,
+            "changeTime": 1506706344858,
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+        {
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+            "isDirectory": false,
+            "size": 258,
+            "modifiedTime": 1506706388070,
+            "changeTime": 1506706388070,
+            "contentHash": "0c3e9ba287910afd157175e2e7796abba6b13ff3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1506706344857,
+            "changeTime": 1506706344857,
+            "contentHash": "7a615400a46f36b7d0acfc6610df3c489c605403",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+        {
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+            "isDirectory": false,
+            "size": 59,
+            "modifiedTime": 1506707084312,
+            "changeTime": 1506707084312,
+            "contentHash": "acb87e5129e83aa957bd79c24145f051f4eb4e6a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+        {
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+            "isDirectory": false,
+            "size": 421,
+            "modifiedTime": 1506706454988,
+            "changeTime": 1506706454988,
+            "contentHash": "8e7f4baeaff313ce5f143546d34a6eba765a6505",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+        {
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1506706344857,
+            "changeTime": 1506706344857,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+        {
+            "sourcePath": "/Users/mirceatrofimciuc/Projects/Salesforce/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1506706344858,
+            "changeTime": 1506706344858,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
